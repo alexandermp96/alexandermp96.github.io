@@ -1,5 +1,7 @@
 # Was ist die Business Model Benchmark Map?
 
+![Palmen](01.jpg) 
+
 Commodo voluptate pariatur qui tempor ullamco voluptate qui duis proident ullamco sunt. Ullamco amet nisi deserunt fugiat nulla velit fugiat commodo. Irure esse consectetur culpa ut tempor duis minim. Id eiusmod irure velit eiusmod magna Lorem sit aute sit excepteur.
 
 Ad mollit adipisicing mollit consequat Lorem nulla consequat. Ad consequat magna aliquip sint non. Elit elit eiusmod dolor cillum cillum. Laboris laborum quis laboris commodo mollit qui Lorem magna eiusmod deserunt minim aliquip sint exercitation. Pariatur anim exercitation enim velit cupidatat ad magna qui esse sunt incididunt do. In labore qui laborum officia irure duis consequat non sunt.
