@@ -2,8 +2,6 @@
 
 ![Titelbild](Titelbild.png)
 
-[Hier ist mein Professor](https://alexandermp96.github.io/)
-
 ## 1. Einleitung: Weshalb sind Forecasting Methoden im Vertrieb notwendig?
 
 Die Vertriebsabteilung bildet in einem Unternehmen eine zentrale Schnittstelle, die mit mehreren Abteilungen wie der Logistik oder der Produktion im konstanten Informationsaustausch steht. Daher ist es für den nachhaltigen Erfolg eines Unternehmens wichtig, dass alle Abteilungen gegenwertige und zukünftige Vertriebsergebnisse erhalten, um mögliche Risiken zu identifizieren und beheben zu können. Je präziser diese Prognosen von Absatzzahlen und Umsatzzahlen sind, desto geringer ist das Risiko für eine Überproduktion und dadurch resultierende Restbestände (Kühnapfel, 2013, S. 24). Deshalb bilden Prognosen des Vertriebs den Beginn verschiedener Planungsprozesse in abhängigen Abteilungen, die ihre eigene Planung auf der Prognose aus dem Vertrieb aufbauen. In der englisch sprachigen Literatur werden Verkaufsprognosen als Sales Forecasting bezeichnet und werden als Synonyme angesehen. Verkaufsprognosen befassen sich mit der Fragestellung: Wie ist es möglich bestimmte Kennzahlen wie Absatz- oder Umsatzzahlen möglichst genau zu prognostizieren? (Kühnapfel, 2015, S. 18 f.).
@@ -53,8 +51,14 @@ Um eine möglichst genaue Prognose zu erstellen, müssen acht Anforderungen er
 ## 5. Literaturverzeichnis
 
 Davis, J. (2007). Magic Numbers for Sales Management - Key Measures to Evaluate Sales Success. Singapur: John Wiley & Sons (Asia) Pte Ltd.
+
 Del Rocio Castillo, E., Chain Palavicini, M., Del Rio Soto, R., & Cruz Gomez, J. (2016, Mai 19). Double Weighted Moving Average: Alternative Technique for Chemicals Supplier’s Sales Forecast. International Journal of Business Administration, S. 58-66.
+
 Johnston, M. W., & Marshall, G. W. (2016). Sales Force Management - Leadership, Innovation, Technology (12. Auflage). New York: Routledge.
+
 Kühnapfel, J. B. (2013). Vertriebscontrolling: Methoden im praktischen Einsatz (2. Auflage). Wiesbaden: Springer.
-Kühnapfel, J. B. (2015). Vertriebsprognosen: Methoden für die Praxis. Wiesbaden: Springer. Lee, W. I., Chen, C.-W., Chen, K.-H., Chen, T.-H., & Liu, C.-C. (2012). A Comparative
+
+Kühnapfel, J. B. (2015). Vertriebsprognosen: Methoden für die Praxis. Wiesbaden: Springer.
+
+Lee, W. I., Chen, C.-W., Chen, K.-H., Chen, T.-H., & Liu, C.-C. (2012). A Comparative
 Study On The Forecast Of Fresh Food Sales Using Logistic Regression, Moving Average And BPNN Methods. Journal of Marine Science and Technology, S. 142- 152.
